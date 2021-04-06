@@ -1,3 +1,3 @@
 # gaussian-naive-bayes
 
-The training and the testing data were taken from the Iris Dataset.
+The data used here for this implementation were taken from the Iris Dataset.
